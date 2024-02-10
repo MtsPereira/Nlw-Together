@@ -1,4 +1,4 @@
-# Nlw-originsix
+# Nlw-together
  
 Projeto de NLW realizado na Rocketseat.
 
